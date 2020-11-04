@@ -79,7 +79,7 @@ Alamat url untuk website: https://member.picassorewards.com, system ini sedang d
 
 ---
 
-Selamat Mengerjakan.
+<p align="center">Selamat Mengerjakan.</p>
 
 ---
 

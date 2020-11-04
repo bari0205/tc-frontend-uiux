@@ -29,7 +29,8 @@ Alamat url untuk website: https://member.picassorewards.com, system ini sedang d
 
 - **Fork** repository ini ke akun Github anda.
 - Pekerjaan anda dalam menjawab soal akan berada di repository anda, misal `https://github.com/user_akun_anda/tc-frontend-uiux`.
-- Anda dapat modifikasi file gitignore sesuikan dengan project anda.
+- Clone Repository hasil dari `fork` sebagai project di local komputer anda.
+- Anda dapat menambah file atau folder sesuikan dengan kebutuhan project anda.
 - Kami akan melakukan penilaian berdasarkan pekerjaan di repository Github anda.
 - Setelah selesai mengerjakan soal yang diberikan sesuai dengan batas waktu yang diberikan, silahkan anda informasikan alamat repositiry Github anda, replay email soal test yang diberikan di `picassograndhotel@gmail.com`.
 

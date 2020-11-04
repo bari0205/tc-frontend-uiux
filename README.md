@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./_doc/img/picasso.png" width="100" alt="Picasso Grand Hotel" />
+<img src="./_doc/img/picasso.png" width="150" alt="Picasso Grand Hotel" />
 </p>
 <p align="center">Test Case Front-End Developer (UI/UX)</p>
 
@@ -7,27 +7,15 @@
 
 Saat ini Picasso sedang mengembangkan system membership online, dimana terdapat beberapa fitur sebagai berikut:
 
----
-
-> #### 1. Authentikasi
->
-> - Login
-> - Registrasion
-> - Forgot Password
-
----
-
-> #### 2. Dashboard Member
->
-> - Account
-> - Profile
-> - Point
-> - Stay
-> - Invoice
-> - Inbox
-> - Notification
- 
----
+| Authentication    | Dashboard      |
+| ----------------- | -------------- |
+| - Login           | - Account      |
+| - Registrasion    | - Profile      |
+| - Forgot Password | - Point        |
+|                   | - Stay         |
+|                   | - Invoice      |
+|                   | - Inbox        |
+|                   | - Notification |
 
 Alamat url untuk website: https://member.picassorewards.com, system ini sedang dalam pengembangan terutama tampilan dan interaksi penggunaanya (UI/UX).
 
@@ -57,7 +45,7 @@ Alamat url untuk website: https://member.picassorewards.com, system ini sedang d
 1.  Anda diminta untuk mengunjungi website Membership Picasso https://member.picassorewards.com, mulai dari halaman Authetication & Dashboard. Untuk halaman Dashboard, anda terlebih dahulu registrasi.
 
     Pertanyaan:
-    
+
         a. Kritik masing-masing halaman?
         b. Analisa dan saran masing-masing halaman?
 
@@ -80,7 +68,7 @@ Alamat url untuk website: https://member.picassorewards.com, system ini sedang d
 
         f. Profile
 
-    Catatan: 
+    Catatan:
 
         - Design yang dibuat memperlihatkan data yng ditampilkan.
         - Anda bebas menggunakan CSS Framework
@@ -96,3 +84,5 @@ Selamat Mengerjakan.
 ---
 
 ## Jawaban Anda
+
+...

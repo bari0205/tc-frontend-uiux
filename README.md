@@ -24,7 +24,7 @@ Alamat url untuk website: https://member.picassorewards.com, system ini sedang d
 #### 1. Dari repository Github Test Case ini, anda diminta untuk:
 
 <p align="center">
-<img src="./_doc/img/repo-fork.png" width="600" alt="Picasso Grand Hotel" />
+<img src="./_doc/img/repo-fork.png" width="800" alt="Picasso Grand Hotel" />
 </p>
 
 - **Fork** repository ini ke akun Github anda.

@@ -3,7 +3,7 @@
 </p>
 <p align="center">Test Case Front-End Developer (UI/UX)</p>
 
-## I. Discription
+## I. Diskripsi
 
 Saat ini Picasso sedang mengembangkan system membership online, dimana terdapat beberapa fitur sebagai berikut:
 

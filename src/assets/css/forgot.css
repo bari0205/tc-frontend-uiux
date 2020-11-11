@@ -1,0 +1,214 @@
+body {
+  font-family: "Karla", sans-serif;
+  background: url("../images/background.svg");
+  background-size: 150%;
+  min-height: 50vh;
+}
+
+.brand-wrapper {
+  margin-bottom: 19px;
+}
+.brand-wrapper .logo {
+  height: 37px;
+}
+
+.login-card {
+  border: 0;
+  border-radius: 27.5px;
+  box-shadow: 0 10px 30px 0 rgba(99, 96, 96, 0.43);
+  overflow: hidden;
+  height: 430px;
+  margin-top: 4%;
+  display: flex;
+}
+
+.forgot {
+  height: 470px;
+}
+
+@media (max-width: 400px) {
+  .login-card {
+    margin-top: 50%;
+    height: 430px;
+  }
+}
+
+@media (max-width: 350px) {
+  .login-card {
+    margin-top: 35%;
+    height: 540px;
+  }
+}
+
+@media (max-height: 800px) {
+  .login-card {
+    margin-top: 35%;
+    height: 430px;
+  }
+}
+
+@media (max-height: 600px) {
+  .login-card {
+    margin-top: 25%;
+    height: 430px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .login-card {
+    margin-top: 15%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .login-card {
+    margin-top: 5%;
+  }
+}
+
+@media (min-height: 1024px) {
+  .login-card {
+    margin-top: 40%;
+  }
+}
+
+.login-card-img {
+  border-radius: 0;
+  position: absolute;
+  width: auto;
+  height: 88px;
+  -o-object-fit: cover;
+  object-fit: cover;
+  margin-top: 50%;
+  margin-left: 14%;
+  filter: brightness(0) invert(1);
+}
+.login-card .card-body {
+  padding: 40px 60px 60px;
+}
+
+/* enable absolute positioning */
+.inner-addon {
+  position: relative;
+  color: #aab2b6;
+}
+
+.glyphicon {
+  font-size: 20px;
+  padding: 6px;
+  box-sizing: border-box;
+  clear: both;
+  text-align: left;
+}
+
+/* style icon */
+.inner-addon .glyphicon {
+  position: absolute;
+  pointer-events: none;
+}
+
+.inner-addon .glyphicon:focus {
+  color: black;
+}
+
+/* align icon */
+.left-addon .glyphicon {
+  left: 0px;
+}
+.right-addon .glyphicon {
+  right: 0px;
+}
+
+/* add padding  */
+.left-addon input {
+  padding-left: 30px;
+}
+.right-addon input {
+  padding-right: 30px;
+}
+
+@media (max-width: 422px) {
+  .login-card .card-body {
+    padding: 35px 24px;
+  }
+}
+.login-card-description {
+  font-size: 25px;
+  color: #209cee;
+  font-weight: normal;
+  margin-bottom: 23px;
+}
+.login-card form {
+  max-width: 326px;
+  margin-top: 10%;
+}
+.login-card .form-control {
+  border: 1px solid #d5dae2;
+  padding: 15px 35px;
+  margin-bottom: 20px;
+  min-height: 45px;
+  font-size: 13px;
+  line-height: 15;
+  font-weight: normal;
+}
+.login-card .form-control::-webkit-input-placeholder {
+  color: #919aa3;
+}
+.login-card .form-control::-moz-placeholder {
+  color: #919aa3;
+}
+.login-card .form-control:-ms-input-placeholder {
+  color: #919aa3;
+}
+.login-card .form-control::-ms-input-placeholder {
+  color: #919aa3;
+}
+.login-card .form-control::placeholder {
+  color: #919aa3;
+}
+.login-card .login-btn {
+  padding: 13px 20px 12px;
+  background-color: #209cee;
+  border-radius: 30px;
+  font-size: 17px;
+  font-weight: bold;
+  line-height: 20px;
+  color: #fff;
+  margin-bottom: 24px;
+}
+.login-card .login-btn:hover {
+  border: 1px solid #209cee;
+  background-color: transparent;
+  color: #000;
+}
+.login-card .forgot-password-link {
+  font-size: 14px;
+  color: #919aa3;
+  margin-bottom: 12px;
+}
+.login-card-footer-text {
+  font-size: 16px;
+  color: #0d2366;
+  text-align: center;
+}
+
+.linkakun {
+  font-weight: 600;
+}
+
+.linkakun:hover {
+  color: black;
+}
+
+@media (max-width: 767px) {
+  .login-card-footer-text {
+    margin-bottom: 24px;
+  }
+}
+.login-card-footer-nav a {
+  font-size: 14px;
+  color: #209cee;
+  text-align: center;
+}
+
+/*# sourceMappingURL=login.css.map */

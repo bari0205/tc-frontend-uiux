@@ -1,0 +1,396 @@
+.control {
+  box-sizing: border-box;
+  clear: both;
+  font-size: 1rem;
+  position: relative;
+  text-align: left;
+}
+.titlemodal {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 49px;
+
+  color: #000000;
+}
+
+.shadowelips {
+  -webkit-box-shadow: -1px 0px 12px -4px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 0px 12px -4px rgba(0, 0, 0, 0.75);
+  box-shadow: -1px 0px 12px -4px rgba(0, 0, 0, 0.75);
+  border-radius: 50px;
+}
+
+.eginame {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 22px;
+  line-height: 33px;
+  margin-top: 4%;
+}
+
+.namamenu {
+  margin-left: 5%;
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 101.5%;
+}
+
+.buttonmenu {
+  margin-top: 5%;
+  width: 84%;
+  text-align: left;
+  margin-left: -6%;
+  height: 70px;
+  border-radius: 40px;
+  border-color: white;
+  background-color: white;
+  border-style: unset;
+}
+
+.buttonmenu:hover {
+  background-color: #ee4622;
+  color: white;
+}
+
+.buttonmenu:focus {
+  background-color: #ee4622;
+  color: white;
+}
+
+.namabannerbesar {
+  font-family: Times New Roman;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 96px;
+  line-height: 101.5%;
+  /* or 97px */
+
+  color: #000000;
+}
+
+.namabannerkecil {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 101.5%;
+  /* or 24px */
+
+  color: #000000;
+}
+
+.gamabrbukubanner {
+  width: 75%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: 10%;
+}
+
+.gambarbuku {
+  width: 97%;
+  margin-top: 10%;
+}
+
+.listBook {
+  font-family: Times New Roman;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 101.5%;
+  margin-top: 3%;
+  /* identical to box height, or 37px */
+
+  color: #000000;
+}
+
+.judulbuku {
+  font-family: Times New Roman;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 120.5%;
+  /* or 29px */
+
+  color: #000000;
+}
+
+.pengarang {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 101.5%;
+  /* or 18px */
+
+  color: #929292;
+}
+
+.gambarprofile {
+  width: 100%;
+  margin-top: 10%;
+  margin-left: 15%;
+}
+
+.judulprofile {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 14px;
+  line-height: 20px;
+  display: inline;
+  margin-left: 5%;
+  /* identical to box height, or 143% */
+
+  display: flex;
+  align-items: center;
+
+  /* Black */
+
+  color: #050505;
+}
+
+.subjudulprofile {
+  font-family: Google Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  margin-left: 9%;
+  /* identical to box height, or 133% */
+
+  display: flex;
+  align-items: center;
+
+  /* Grey Medium */
+
+  color: #8a8c90;
+}
+
+.gantipro {
+  margin-top: 10%;
+  margin-left: 15%;
+  width: 100%;
+}
+
+.tulisanganti {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.gambardetail {
+  width: 83%;
+  margin-top: 20%;
+}
+
+.detailnya {
+  margin-top: 14%;
+}
+
+.juduldetail {
+  font-family: Times New Roman;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 120.5%;
+  /* or 77px */
+
+  color: #000000;
+}
+
+.subjuduldetail {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 101.5%;
+  /* or 24px */
+
+  color: #929292;
+}
+
+.isidetail {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 120.5%;
+  /* identical to box height, or 29px */
+
+  color: #000000;
+}
+
+.subisidetail {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 101.5%;
+  /* or 18px */
+
+  color: #929292;
+}
+
+.aboutdetail {
+  font-family: Times New Roman;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 120.5%;
+  /* or 43px */
+
+  color: #000000;
+}
+
+.subaboutdetail {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 150%;
+  /* or 27px */
+
+  text-align: justify;
+
+  color: #929292;
+}
+
+.besardialog {
+  width: 100%;
+}
+
+.addbook {
+  font-family: Times New Roman;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 101.5%;
+  margin-top: 4%;
+  /* identical to box height, or 37px */
+
+  color: #000000;
+}
+
+.namabutton {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.juduldop {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 33px;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+.isitable {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  margin-top: 50%;
+  margin-bottom: 50%;
+  /* or 157% */
+
+  /* Text */
+
+  color: #000000;
+}
+
+.buttoncategory {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+}
+
+.verifikasi {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 22px;
+  margin-top: 3%;
+  margin-left: -1.5%;
+  /* identical to box height, or 61% */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.ketmod {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 33px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #469f74;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

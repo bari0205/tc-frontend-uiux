@@ -86,4 +86,13 @@ Alamat url untuk website: https://member.picassorewards.com, system ini sedang d
 
 ## Jawaban Anda
 
-...
+1. Halaman Login (1), Register (2), Reset Password (3) 
+a. bentuk font berbeda (1) (2) (3)
+b. label terlalu kecil tidak seimbang dengan ukuran font yang berada di dalam input (1) (2) (3)
+c. input form terlalu panjang (1) (2) (3)
+d. button kurang animatif (1) (2) (3)
+e. responsif card saat di handphone terlalu besar dan mepet (1) (2) (3)
+d. form register terlalu ada beberapa bagian kosong (3)
+
+2. Account
+Side bar tidak responsif saat di handphone sidebar tidak ada
